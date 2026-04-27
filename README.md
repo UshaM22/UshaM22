@@ -11,6 +11,6 @@ Java · Spring Boot · Spring Batch · Redis · Docker · Berlin, Germany
 ## Tech Stack
 Java 17 · Spring Boot · MySQL · Redis · Docker · JUnit 5 · JWT
 
-📍 Berlin, Germany · 🔍 Open to Backend Developer roles<!--
+📍 Berlin, Germany · 🔍 Open to Backend Developer roles
 
 
